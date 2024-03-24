@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bytx.attendanceapp-mergeDebugResources-38:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abhir\\.gradle\\caches\\transforms-3\\6a5fae187adffb0fd341fcc1b9a2c3a8\\transformed\\appcompat-1.2.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
